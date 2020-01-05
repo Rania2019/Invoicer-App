@@ -1,0 +1,21 @@
+.invoicetag {
+    text-align: left;
+    font-size: calc(8px + 2vmin);
+    border: 1px solid black;
+    margin: 16px;
+    padding:5px;
+
+    height: 80px;
+    width: 98%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+    z-index: 90;
+}
+

@@ -1,0 +1,8 @@
+.invoiceinfo {
+    text-align: right;
+    font-size: calc(10px + 2vmin);
+    border: 1px solid black;
+    
+    margin: 16px;
+    padding:16px;
+  }
